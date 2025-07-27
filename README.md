@@ -1,4 +1,4 @@
-# Hey 👋 I'm Naman
+# Hey 👋 I'm Naman aka Denyme
 
 🚀 Full-stack developer obsessed with building **impactful software** and mastering **backend engineering**.  
 🎯 Focused on clean systems, real-world scalability, and constant skill upgrades.
