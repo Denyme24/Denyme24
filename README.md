@@ -14,73 +14,12 @@ I'm a **passionate full-stack developer** with a strong focus on **backend engin
 const naman = {
   location: "India 🇮🇳",
   focus: ["Backend Engineering", "System Design", "Full-Stack Development"],
-  currentlyBuilding: "DNS Server in Go with Web Dashboard",
   philosophy: "Clean code, scalable systems, continuous learning",
-  askMeAbout: ["Go", "Node.js", "React", "System Architecture", "API Design"],
-  funFact: "I debug with console.log and I'm not ashamed of it 😅"
+  askMeAbout: ["Go", "Node.js", "React", "System Architecture", "API Design"]
 };
 ```
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 [3RVision](https://github.com/Denyme24/3RVision)
-**AI-Powered Sustainability Platform**
-- TypeScript • Next.js • Machine Learning
-- Chrome extension + web platform for waste management
-- Helps users make informed decisions about reuse, recycle, or resell
-- MIT Licensed • Environmental Impact Technology
-
-</td>
-<td width="50%">
-
-### 💼 [Resume-Review](https://github.com/Denyme24/Resume-Review)
-**Intelligent Recruitment Automation**
-- TypeScript • AI Integration • HR Tech
-- Automates resume screening and candidate evaluation
-- Combines precision with smart filtering algorithms
-- Makes hiring faster, smarter, and more effective
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌬️ [Air-Insight](https://github.com/Denyme24/Air-Insight)
-**Environmental Health Dashboard**
-- Real-time air quality monitoring platform
-- Historical data analysis and environmental metrics
-- Built for environmental awareness and public health
-- Production deployed with live monitoring
-
-</td>
-<td width="50%">
-
-### ⚡ [ZapURL](https://github.com/Denyme24/ZapURL)
-**URL Shortening Service**
-- JavaScript • Node.js • Express
-- High-performance link shortening with analytics
-- Clean, memorable links with tracking capabilities
-- Focus on performance and reliability
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/Denyme24?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</div>
-
----
-
-## 🛠️ Technical Arsenal
 
 ### **Languages & Frameworks**
 <p align="left">
@@ -97,12 +36,6 @@ const naman = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,postman" />
 </p>
 
-### **Currently Exploring**
-- 🔧 **System Design Patterns** - Microservices, Event-driven architecture
-- 🌐 **Network Programming** - Building custom DNS server from scratch
-- ☁️ **Cloud Architecture** - AWS, GCP, Infrastructure as Code
-- 🤖 **AI Integration** - Incorporating ML models into web applications
-
 ---
 
 ## 📈 GitHub Analytics
@@ -118,52 +51,6 @@ const naman = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denyme24&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-## 🎯 Current Focus & Goals
-
-### **🔄 What I'm Working On**
-- 🌐 **Custom DNS Server**: Building a high-performance DNS server in Go with Fiber web dashboard
-- 🏗️ **System Architecture**: Deep diving into distributed systems and microservices patterns
-- 🚀 **Performance Optimization**: Exploring advanced backend optimization techniques
-
-### **📚 Learning Journey**
-- Advanced Go programming and concurrency patterns
-- System design for large-scale applications
-- DevOps practices and cloud infrastructure
-- Network programming fundamentals
-
-### **🎯 2024 Goals**
-- [ ] Launch production-ready DNS server project
-- [ ] Contribute to open-source Go projects
-- [ ] Build microservices architecture case study
-- [ ] Achieve AWS Solutions Architect certification
-
----
-
-## 💼 Professional Experience
-
-### **Key Achievements**
-- 🏆 **12+ Production Projects** spanning multiple domains and technologies
-- 🌟 **Full-Stack Expertise** from frontend UX to backend infrastructure
-- 🔧 **System Architecture** experience with scalable, maintainable codebases
-- 🤝 **Cross-Domain Impact** in environmental tech, HR automation, and developer tools
-
-### **Technical Leadership**
-- Designed and implemented RESTful APIs serving thousands of requests
-- Built responsive web applications with modern React/Next.js
-- Optimized database queries and implemented efficient caching strategies
-- Created CI/CD pipelines and deployment automation
-
----
-
-## 🌟 Open Source & Community
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denyme24&repo=3RVision&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Denyme24&repo=Air-Insight&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
