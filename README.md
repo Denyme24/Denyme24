@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Naman+%F0%9F%91%8B;Full-Stack+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="3" />
-</div>
-
 ## 👨‍💻 About Me
 
 I'm a **passionate full-stack developer** with a strong focus on **backend engineering** and **system architecture**. I believe in building software that not only works but makes a meaningful impact. My journey spans across diverse domains—from environmental technology to AI-powered solutions, each project teaching me something new about scalable, maintainable systems.
