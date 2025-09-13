@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **passionate full-stack developer** with a strong focus on **backend engineering** and **system architecture**. I believe in building software that not only works but makes a meaningful impact. My journey spans across diverse domains—from environmental technology to AI-powered solutions, each project teaching me something new about scalable, maintainable systems.
+I'm a **passionate full-stack developer** with a strong focus on **backend engineering** and **system architecture**. I believe in building software that not only works but makes a meaningful impact. My journey spans across diverse domains from environmental technology to AI-powered solutions, each project teaching me something new about scalable, maintainable systems.
 
 ```typescript
 const naman = {
