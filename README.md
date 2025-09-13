@@ -1,43 +1,76 @@
-# Hey 👋 I'm Naman 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Naman+%F0%9F%91%8B;Full-Stack+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
 
-🚀 Full-stack developer obsessed with building **impactful software** and mastering **backend engineering**.  
-🎯 Focused on clean systems, real-world scalability, and constant skill upgrades.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="3" />
+</div>
+
+## 👨‍💻 About Me
+
+I'm a **passionate full-stack developer** with a strong focus on **backend engineering** and **system architecture**. I believe in building software that not only works but makes a meaningful impact. My journey spans across diverse domains—from environmental technology to AI-powered solutions, each project teaching me something new about scalable, maintainable systems.
+
+```typescript
+const naman = {
+  location: "India 🇮🇳",
+  focus: ["Backend Engineering", "System Design", "Full-Stack Development"],
+  philosophy: "Clean code, scalable systems, continuous learning",
+  askMeAbout: ["Go", "Node.js", "React", "System Architecture", "API Design"]
+};
+```
 
 ---
 
-## 🔥 What I'm Up To
-- Building a **DNS server** in **Go** with a web dashboard (Fiber-powered).
-- Diving deep into **Golang** + **networking fundamentals**.
-- Leveling up backend architecture, devops, and cloud deployment.
-
----
-
-## 📬 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=ko-fi&logoColor=white)](https://namanraj.tech/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-raj24)
-
----
-
-## 🛠 Tech Stack
+### **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,react,nextjs,nodejs,typescript,js,tailwind,python,mongodb,postgres,vercel,docker,figma,git" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,javascript,python,react,nextjs,nodejs,html,css" />
+</p>
+
+### **Backend & Infrastructure**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,docker,vercel,nginx,linux" />
+</p>
+
+### **Tools & Technologies**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denyme24&theme=github_dark&hide_border=true&show_icons=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Denyme24&theme=github_dark&hide_border=true" width="48%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denyme24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denyme24&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denyme24&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=github-readme-stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denyme24&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
 
-## 🏆 Top Contributions
+## 📫 Let's Connect
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Denyme24&limit=5&theme=dark&combine_all_yearly_contributions=true" width="60%" />
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://namanraj.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namanraj24/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnaman488@gmail.com)
+
 </div>
 
 ---
 
-<!-- Powered by real grind, late-night debugging, and the dream of scalable systems 🚀 -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="3" />
+  
+  **"Building tomorrow's software with today's passion"** 🚀
+  
+  <img src="https://komarev.com/ghpvc/?username=Denyme24&color=blue&style=flat" alt="Profile Views" />
+</div>
